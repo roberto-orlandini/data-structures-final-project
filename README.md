@@ -1,6 +1,6 @@
 # Data Structures Final Project
 
-This project analyzes and compares the efficiency of two data structures: **Binary Search Tree** and **Splay Tree**.
+This project analyzes and compares the efficiency of two data structures: **Binary Search Tree** and **AVL Tree**.
 
 ## Overview
 
